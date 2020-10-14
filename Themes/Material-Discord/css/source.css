@@ -6700,7 +6700,7 @@ h2.title-3sZWYQ.h2-2gWE-o + .children-rWhLdy div:not([class]) .title-3sZWYQ.h5-1
   padding: 8px 0 0 0; }
 
 .unreadBar-17qm9c {
-  background: var(--alert-color);
+  background: #bfbfbf;
   border-radius: 0;
   font-weight: 500;
   transition: 250ms ease all; }
